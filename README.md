@@ -3,8 +3,9 @@ A file management website that brings the benefits of storage to the cloud. Acce
 
 ![Image](https://i.imgur.com/eYa1Lrq.png)
 ![Image](https://i.imgur.com/JLsfFE0.png)
+![Image](https://i.imgur.com/Mo4hapv.png)
 
-Features
+# Features
 - Account Creation
 - Sortable Table
 - Folders
