@@ -19,6 +19,7 @@ A file management website that brings the benefits of storage to the cloud. Acce
     Change Password
     Change Display Name
     Delete Account
+    Sessions
 
 # Technologies
 - Bootstrap
