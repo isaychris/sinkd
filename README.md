@@ -1,5 +1,21 @@
 # Sinkd
 Sind is a file management website that brings the benefits of storage to the cloud. Access your files anywhere, at any time.
+### Features
+- Account Creation
+- Sortable Table
+- Folders
+- File/ Management:
+    Uploading
+    Renaming
+    Deleting
+    Viewing
+    Sharing
+    Sorting
+- Account Management:
+    Change Password
+    Change Display Name
+    Delete Account
+    Sessions
 
 # Background
 Sinkd is the solution to one of the problems most majors at CSUSM face, no centralized storage. Our project gives CSUSM students the ability to access, create folders, upload files, and manage them in a professional way. Users don’t have to worry about losing or wasting time searching for their files. 
@@ -14,29 +30,17 @@ One of our main focuses was to create a reliable and easy to use application. In
 ![Image](https://i.imgur.com/JLsfFE0.png)
 ![Image](https://i.imgur.com/Mo4hapv.png)
 
-# Features
-- Account Creation
-- Sortable Table
-- Folders
-- File/ Management:
-    Uploading
-    Renaming
-    Deleting
-    Viewing
-    Sharing
-- Account Management:
-    Change Password
-    Change Display Name
-    Delete Account
-    Sessions
-
-# Technologies
-- Bootstrap
-- TableSorter
-- jQuery
-- AJAX
-- MYSQL
-- HTML, CSS, Javascript, PHP,
+# Tools / Resources
+Name | Description
+--- | ---
+TableSorter | A jquery plugin used to modify and sort data in the table dynamically.
+Bootstrap | A front-end framework used to help design our website easily.
+JQuery | A javascript library used to make client-side scripting simple and easy.
+Ajax | Used to make asynchronous requests to the server to update webpages dynamically without the need of reloading.
+PHP | Used to interact with the database and make requests to the server.
+HTML/CSS/Javascript |  Used for front-end and UI design.
+MySQL | Used to manage the user's account information for signup and login system.
+Server | Used to store the user's uploaded files.
 
 # Future Enhancements
 Some possible future improvements and enhancements we can consider when maintaining the website will be making the site look more professional, and changing the look based on seasons but besides aesthetics, the site does what it's supposed to do and it does it well. Very user friendly and we will keep maintaining it to stay that way and make sure no issues appear. 
