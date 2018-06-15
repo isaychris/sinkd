@@ -1,6 +1,10 @@
 # Sinkd
 Sinkd is a file management website that brings the benefits of storage to the cloud. Access your files anywhere, at any time.
 
+### Website
+http://cis444.cs.csusm.edu/group_A/sinkd/login.php
+
+
 ### Background
 One of the problems most majors at CSUSM face is no centralized storage. While CS students have access to cloud storage via the school server, other students are out of luck. The solution to our problem was sinkd. Our project gives all CSUSM students the ability to access, create folders, upload files, and manage them in a professional way. 
 
@@ -49,6 +53,3 @@ We could also add a search bar to search for any specific file or folder. Sortin
 Another enhancement we could implement is the ability for an admin user with strong permissions to maintain and modify site instead of connecting to the database each time. 
 
 Lastly we could implement a stronger security system. Some implementations are use of strong passwords. One example is to hash the passwords in the database. This way in case of a hack, passwords are not shown in plain text. Another example is to require certain length on each password as well as some numbers or special characters. 
-
-# Preview
-http://cis444.cs.csusm.edu/group_A/sinkd/login.php
